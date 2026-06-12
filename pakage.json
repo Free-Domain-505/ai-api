@@ -1,0 +1,8 @@
+{
+  "name": "xorvila-ai-api",
+  "version": "1.0.0",
+  "description": "Vercel API for Xorvila Hub AI System",
+  "dependencies": {
+    "@google/generative-ai": "^0.11.0"
+  }
+}
